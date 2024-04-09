@@ -1,15 +1,15 @@
 [project 1] Korea Lottery Number Recommendation System
 
-Hi~ I am Say~Lee.
+Hi~ I am Say~Lee.<br>
 I am a beginner data analyst who has just started learning Python. 😀<br>
-so plz don't be too hard on me, even if my skills are horrible. 😕
-I am planning to make posts of my work on Github from now on, plz enjoy it!
+so plz don't be too hard on me, even if my skills are horrible. 😕<br>
+I am planning to make posts of my work on Github from now on, plz enjoy it!<br>
 
-My first project is a lottery number recommendation system for the South Korean Lottery system known as 'Lotto'!
+My first project is a lottery number recommendation system for the South Korean Lottery system known as 'Lotto'!<br>
 
-While there are already many lottery number recommendation services available in Korea, 
-Lotto has been subject to suspicions of manipulation. 
-There are several reasons for this:
+While there are already many lottery number recommendation services available in Korea, <br>
+Lotto has been subject to suspicions of manipulation. <br>
+There are several reasons for this:<br>
 
 1. The first prize winning numbers have never been repeated in history
 2. There has never been a time when no one won the prize.
