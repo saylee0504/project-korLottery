@@ -11,28 +11,28 @@ While there are already many lottery number recommendation services available in
 Lotto has been subject to suspicions of manipulation. <br>
 There are several reasons for this:<br>
 
-1. The first prize winning numbers have never been repeated in history
-2. There has never been a time when no one won the prize.
+1. The first prize winning numbers have never been repeated in history<br>
+2. There has never been a time when no one won the prize.<br>
 
-As someone who buys Lotto every week myself, I become curious about whether there might be real manipulation involved.
+As someone who buys Lotto every week myself, I become curious about whether there might be real manipulation involved.<br>
 
-So I proposed the following approach:
+So I proposed the following approach:<br>
 
-[First] I formulated a hypothesis.
-"Lotto is manipulated
-This hypothesis incorporates situations where people have raised concerns about manipulation into the code.
+[First] I formulated a hypothesis.<br>
+"Lotto is manipulated<br>
+This hypothesis incorporates situations where people have raised concerns about manipulation into the code.<br>
 
-(1) all the historical first prize winning numbers are excluded.
-(2) Among the numbers with the least number of winners, at least one will be selected as the winning number.
+(1) all the historical first prize winning numbers are excluded.<br>
+(2) Among the numbers with the least number of winners, at least one will be selected as the winning number.<br>
 
-[Second] To achieve this, I simulated the scenario of the first round of Lotto purchases and conducted experiment by:
+[Second] To achieve this, I simulated the scenario of the first round of Lotto purchases and conducted experiment by:<br>
 
-(1) Generate random number lists as many times as the average number of Lotto purchases for a week.
-(2) Delete historical first prize winning numbers
-(3) Select the number lists with the lowest duplicate counts.
-(4) Randomly sample 5 sets of numbers from the selected lists. 
+(1) Generate random number lists as many times as the average number of Lotto purchases for a week.<br>
+(2) Delete historical first prize winning numbers<br>
+(3) Select the number lists with the lowest duplicate counts.<br>
+(4) Randomly sample 5 sets of numbers from the selected lists. <br>
 
-As I am just beginning to study programming, the code may be quite messy.
-I used too many for loops, which resulted in long execution times.
-
-Please don't be too critical 😥
+As I am just beginning to study programming, the code may be quite messy.<br>
+I used too many for loops, which resulted in long execution times.<br>
+<br>
+Please don't be too critical 😥<br>
