@@ -1,7 +1,7 @@
 [project 1] Korea Lottery Number Recommendation System
 
 Hi~ I am Say~Lee.
-I am a beginner data analyst who has just started learning Python. 😀
+I am a beginner data analyst who has just started learning Python. 😀<br>
 so plz don't be too hard on me, even if my skills are horrible. 😕
 I am planning to make posts of my work on Github from now on, plz enjoy it!
 
